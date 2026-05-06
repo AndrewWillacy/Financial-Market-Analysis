@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-This project investigates whether pre-earnings price behaviour and earnings surprise metrics can reliably predict post-announcement stock returns — and whether those patterns can be systematically exploited through a rules-based trading strategy.
+This project investigates whether pre-earnings price behaviour and earnings surprise metrics can reliably predict post-announcement stock returns and whether those patterns can be systematically exploited through a rules-based trading strategy.
 
 Analysing **129 quarterly earnings events** across Apple (AAPL), Google (GOOGL), and NVIDIA (NVDA) over a **10-year period (2015–2025)**, the analysis identifies clear, repeatable patterns linking EPS surprise magnitude and pre-event momentum to post-earnings Cumulative Abnormal Returns (CAR). The project culminates in an **evidence-based trading framework** delivered to the client, VP Analytics, a predictive analytics firm serving hedge fund clients.
 
@@ -182,7 +182,7 @@ The project is structured across four Jupyter notebooks:
 
 ## About
 
-This project was delivered as part of the **LSE Data Analytics Career Accelerator (2025, Distinction)** in collaboration with **VP Analytics** as the employer client. The analysis was presented directly to the VP Analytics team across two presentations.
+This project was delivered as part of the **LSE Data Analytics Career Accelerator (2025, Distinction)** in collaboration with an Analytics company as the employer client. The analysis was presented directly to the analytics team across two presentations.
 
 **Andrew Willacy**
 [LinkedIn](https://www.linkedin.com/in/andrew-willacy-572682347/) | [GitHub Portfolio](https://github.com/AndrewWillacy) | andrew.willacy.data@gmail.com
