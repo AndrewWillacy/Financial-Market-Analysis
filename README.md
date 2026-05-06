@@ -12,7 +12,7 @@ This project investigates whether pre-earnings price behaviour and earnings surp
 
 Analysing **129 quarterly earnings events** across Apple (AAPL), Google (GOOGL), and NVIDIA (NVDA) over a **10-year period (2015–2025)**, the analysis identifies clear, repeatable patterns linking EPS surprise magnitude and pre-event momentum to post-earnings Cumulative Abnormal Returns (CAR). The project culminates in an **evidence-based trading framework** delivered to the client, VP Analytics, a predictive analytics firm serving hedge fund clients.
 
-**Key result:** Large EPS beats (>5% surprise) combined with positive pre-earnings momentum consistently drive material post-announcement returns — most powerfully for NVDA, where 30-day CAR exceeds **11%** on large beats.
+**Key result:** Large EPS beats (>5% surprise) combined with positive pre-earnings momentum consistently drive material post-announcement returns, most powerfully for NVDA, where 30-day CAR exceeds **11%** on large beats.
 
 ---
 
