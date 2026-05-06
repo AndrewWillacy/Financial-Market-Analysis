@@ -1,6 +1,6 @@
 # Financial Market Analysis: Predicting Post-Announcement Drift in US Tech Stocks Using Python & Machine Learning
 
-**LSE Data Analytics Career Accelerator — Employer Project | VP Analytics | November 2025**
+**LSE Data Analytics Career Accelerator — Employer Project |November 2025**
 
 > *Do stock price movements before earnings announcements provide predictive insights into price movements after earnings for Google, Apple and NVIDIA? (2015–2025)*
 
@@ -18,7 +18,7 @@ Analysing **129 quarterly earnings events** across Apple (AAPL), Google (GOOGL),
 
 ## Business Problem
 
-VP Analytics delivers predictive analytics to hedge fund clients, with a focus on modelling market reactions to corporate earnings announcements. The core business question was:
+The analytics company delivers predictive analytics to hedge fund clients, with a focus on modelling market reactions to corporate earnings announcements. The core business question was:
 
 > **Can pre-earnings price behaviour and earnings surprise data provide actionable signals for post-announcement position sizing?**
 
