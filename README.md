@@ -159,11 +159,11 @@ High pre-earnings momentum (Q4) produces average 30-day CAR of **+5.51%** vs **-
 
 - **Expand the stock universe** to 10–15 tech names (AMD, TSLA, META, MSFT) to test generalisability of the framework
 - **Extend time windows** to 60- and 90-day CAR to assess longer drift persistence
-- **Macro-regime analysis** — segment results by interest rate environment, VIX levels, and sector rotation cycles to understand when the strategy performs best and worst
-- **Backtesting framework** — build a formal backtest with slippage, transaction costs, and drawdown controls to evaluate real-world strategy performance
-- **Improve predictive modelling** — explore LSTM/time-series models and additional features (options implied volatility, analyst revision momentum) to improve R² scores
-- **Real-time monitoring dashboard** — develop a live Tableau or Power BI dashboard tracking EPS surprise and momentum signals ahead of upcoming earnings dates
-- **Expand NLP scope** — apply sentiment analysis to all three companies and explore whether social media sentiment (Reddit, Twitter/X) adds predictive signal
+- **Macro-regime analysis** - segment results by interest rate environment, VIX levels, and sector rotation cycles to understand when the strategy performs best and worst
+- **Back testing framework** - build a formal back test with slippage, transaction costs, and drawdown controls to evaluate real-world strategy performance
+- **Improve predictive modelling** - explore LSTM/time-series models and additional features (options implied volatility, analyst revision momentum) to improve R² scores
+- **Real-time monitoring dashboard** - develop a live Tableau or Power BI dashboard tracking EPS surprise and momentum signals ahead of upcoming earnings dates
+- **Expand NLP scope** - apply sentiment analysis to all three companies and explore whether social media sentiment (Reddit, Twitter/X) adds predictive signal
 
 ---
 
